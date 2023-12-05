@@ -24,8 +24,6 @@ The inputs are patients' information, including vital signs, laboratory values a
  
  Results :
 
-![image](https://github.com/kavithamadiraju/DSCI-6612-AI-TERM-PROJECT/assets/150641777/a697f7f6-1242-4dbf-be0e-66e8a1c9b62a)
-![image](https://github.com/kavithamadiraju/DSCI-6612-AI-TERM-PROJECT/assets/150641777/8eb47337-036a-489c-a4b3-fc693196c491)
 
 Exploratory Data Analysis
 ![image](https://github.com/kavithamadiraju/DSCI-6612-AI-TERM-PROJECT/assets/150641777/8a61dd2e-6ea0-4679-85d5-f1218c091264)
