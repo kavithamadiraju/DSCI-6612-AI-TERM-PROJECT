@@ -1,5 +1,7 @@
 # DSCI-6612-AI-TERM-PROJECT
 
+This is a group project for DSCI-6612-02-Introduction to Artificial Intelligence based on the PhysioNet Computing in Cardiology Challenge 2019 (https://physionet.org/content/challenge-2019/1.0.0/)
+
 Introduction :
 Sepsis is a life-threatening organ failure caused by an abnormal host response to infection. This can be ascribed in part to difficulties in detecting sepsis early and initiating timely and adequate therapy. A major barrier to early detection is distinguishing sepsis from sickness symptoms (e.g., inflammation) that have similar clinical signs (e.g., change in vitals), symptoms (e.g., fever), and molecular manifestations (e.g., dysregulated host response). 
 
