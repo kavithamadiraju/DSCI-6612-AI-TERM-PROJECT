@@ -25,4 +25,30 @@ The inputs are patients' information, including vital signs, laboratory values a
  Results :
 
 ![image](https://github.com/kavithamadiraju/DSCI-6612-AI-TERM-PROJECT/assets/150641777/a697f7f6-1242-4dbf-be0e-66e8a1c9b62a)
+![image](https://github.com/kavithamadiraju/DSCI-6612-AI-TERM-PROJECT/assets/150641777/8eb47337-036a-489c-a4b3-fc693196c491)
+
+Exploratory Data Analysis
+![image](https://github.com/kavithamadiraju/DSCI-6612-AI-TERM-PROJECT/assets/150641777/8a61dd2e-6ea0-4679-85d5-f1218c091264)
+
+Pair plot(a)
+![image](https://github.com/kavithamadiraju/DSCI-6612-AI-TERM-PROJECT/assets/150641777/aafc7fc7-5253-4464-a31b-756b5f8931bb)
+
+Pair Plot(b)
+![image](https://github.com/kavithamadiraju/DSCI-6612-AI-TERM-PROJECT/assets/150641777/e116328a-7dc2-4250-b2c1-dd4a39bf8981)
+
+Pair Plot(c)
+![image](https://github.com/kavithamadiraju/DSCI-6612-AI-TERM-PROJECT/assets/150641777/e54a3f53-7aa2-415d-a2cc-3c1906848689)
+
+Pair Plot(d)
+![image](https://github.com/kavithamadiraju/DSCI-6612-AI-TERM-PROJECT/assets/150641777/5cec37da-bff6-4563-8848-500f69085ea1)
+
+Output of Decision Tree
+![image](https://github.com/kavithamadiraju/DSCI-6612-AI-TERM-PROJECT/assets/150641777/7a37ce82-06a8-4e0f-9d51-1a961437955e)
+
+
+
+
+
+
+
 
