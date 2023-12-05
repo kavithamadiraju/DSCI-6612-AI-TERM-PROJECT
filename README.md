@@ -15,7 +15,7 @@ The inputs are patients' information, including vital signs, laboratory values a
  For this study, we use clinical data of ICU patients from two separate hospital systems provided by the PhysioNet Computing in Cardiology Challenge 2019.
  Data used in the competition is sourced from ICU patients in three separate hospital systems. Data from two hospital systems will be publicly available; however, one data set will be censored and used for 
  scoring. The data for each patient will be contained within a single pipe-delimited text file. Each file will have the same header and each row will represent a single hour's worth of data. Available patient co- 
- variates consist of Demographics, Vital Signs, and Laboratory values.( Dataset is taken from the website https://physionet.org/content/challenge-2019/1.0.0/ ).
+ variates consist of Demographics, Vital Signs, and Laboratory values. Dataset is taken from the website ( https://physionet.org/content/challenge-2019/1.0.0/ ).
  
  Code :
  Our code are in four folders: 
